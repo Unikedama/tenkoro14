@@ -2,7 +2,7 @@
 
 **トラックボール搭載 右手用テンキーデバイス**
 
-![Tenkoro14](docs/images/tenkoro14_prototype.png)
+![Tenkoro14](docs/images/tenkoro14_prototype.jpg)
 
 ---
 
